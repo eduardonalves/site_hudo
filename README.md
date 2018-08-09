@@ -1,2 +1,2 @@
-# Site_hudo
+# Site Rudo
  Site de apresentação do App Rudo.
