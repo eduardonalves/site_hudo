@@ -1,2 +1,2 @@
 # Site Rudo
- Site de apresentação do App Rudo.
+ Site de apresentação do App Rudo. 
